@@ -2,7 +2,7 @@
 **Ultimate DDoS Tool - Server Destroyer Mode**  
 
 <p align="center">
-  <img src="https://i.imgur.com/ABCD123.jpg" width="500" alt="PETRUS1SEC Banner">
+  <img src="https://ik.imagekit.io/6ilngyaqa/1747739545598-1000077144_MQBXnmI2d.png" width="500" alt="PETRUS1SEC Banner">
 </p>
 
 ## 🇬🇧 English Version  
